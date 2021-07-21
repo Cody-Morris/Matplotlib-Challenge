@@ -1,6 +1,6 @@
 # Matplotlib-Challenge
 
-## Day 2 to the upload
+## Day 2 of the homework upload
 
 ## Day 3 Fianl day
 
